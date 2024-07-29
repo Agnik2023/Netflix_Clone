@@ -20,5 +20,6 @@ A responsive and feature-rich Netflix clone built with modern web technologies. 
 
 1. **Clone the Repository**:
    ```bash
+   https://github.com/Agnik2023/Netflix_Clone.git
    
    
